@@ -1,0 +1,15 @@
+D:\Documents\Renuka\GitHub\DemoApp\Demo\StringDemo\StringDemo\bin\Debug\net8.0\StringDemo.exe
+D:\Documents\Renuka\GitHub\DemoApp\Demo\StringDemo\StringDemo\bin\Debug\net8.0\StringDemo.deps.json
+D:\Documents\Renuka\GitHub\DemoApp\Demo\StringDemo\StringDemo\bin\Debug\net8.0\StringDemo.runtimeconfig.json
+D:\Documents\Renuka\GitHub\DemoApp\Demo\StringDemo\StringDemo\bin\Debug\net8.0\StringDemo.dll
+D:\Documents\Renuka\GitHub\DemoApp\Demo\StringDemo\StringDemo\bin\Debug\net8.0\StringDemo.pdb
+D:\Documents\Renuka\GitHub\DemoApp\Demo\StringDemo\StringDemo\obj\Debug\net8.0\StringDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Renuka\GitHub\DemoApp\Demo\StringDemo\StringDemo\obj\Debug\net8.0\StringDemo.AssemblyInfoInputs.cache
+D:\Documents\Renuka\GitHub\DemoApp\Demo\StringDemo\StringDemo\obj\Debug\net8.0\StringDemo.AssemblyInfo.cs
+D:\Documents\Renuka\GitHub\DemoApp\Demo\StringDemo\StringDemo\obj\Debug\net8.0\StringDemo.csproj.CoreCompileInputs.cache
+D:\Documents\Renuka\GitHub\DemoApp\Demo\StringDemo\StringDemo\obj\Debug\net8.0\StringDemo.sourcelink.json
+D:\Documents\Renuka\GitHub\DemoApp\Demo\StringDemo\StringDemo\obj\Debug\net8.0\StringDemo.dll
+D:\Documents\Renuka\GitHub\DemoApp\Demo\StringDemo\StringDemo\obj\Debug\net8.0\refint\StringDemo.dll
+D:\Documents\Renuka\GitHub\DemoApp\Demo\StringDemo\StringDemo\obj\Debug\net8.0\StringDemo.pdb
+D:\Documents\Renuka\GitHub\DemoApp\Demo\StringDemo\StringDemo\obj\Debug\net8.0\StringDemo.genruntimeconfig.cache
+D:\Documents\Renuka\GitHub\DemoApp\Demo\StringDemo\StringDemo\obj\Debug\net8.0\ref\StringDemo.dll

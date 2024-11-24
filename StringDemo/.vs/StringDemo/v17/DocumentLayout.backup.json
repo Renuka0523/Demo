@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Renuka\\GitHub\\DemoApp\\Demo\\StringDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8120AD2B-1EE7-4A33-855A-67E7494190C0}|StringDemo\\StringDemo.csproj|d:\\documents\\renuka\\github\\demoapp\\demo\\stringdemo\\stringdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8120AD2B-1EE7-4A33-855A-67E7494190C0}|StringDemo\\StringDemo.csproj|solutionrelative:stringdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Renuka\\GitHub\\DemoApp\\Demo\\StringDemo\\StringDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StringDemo\\Program.cs",
+              "ToolTip": "D:\\Documents\\Renuka\\GitHub\\DemoApp\\Demo\\StringDemo\\StringDemo\\Program.cs*",
+              "RelativeToolTip": "StringDemo\\Program.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:28:13.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
